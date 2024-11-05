@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cris\\Documents\\cj\\Aval4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|c:\\users\\cris\\documents\\cj\\aval4\\controllers\\bingocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|solutionrelative:controllers\\bingocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|c:\\users\\cris\\documents\\cj\\aval4\\services\\bingoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|solutionrelative:services\\bingoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|c:\\users\\cris\\documents\\cj\\aval4\\services\\vencedoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|solutionrelative:services\\vencedoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|c:\\users\\cris\\documents\\cj\\aval4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|c:\\users\\cris\\documents\\cj\\aval4\\basedados\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|solutionrelative:basedados\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|c:\\users\\cris\\documents\\cj\\aval4\\basedados\\models\\numerosorteado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|solutionrelative:basedados\\models\\numerosorteado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|c:\\users\\cris\\documents\\cj\\aval4\\basedados\\models\\cartela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E83425B-5561-4C21-A193-4B3E78B4F68F}|Aval4.csproj|solutionrelative:basedados\\models\\cartela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VencedoresService.cs",
+              "DocumentMoniker": "C:\\Users\\cris\\Documents\\cj\\Aval4\\Services\\VencedoresService.cs",
+              "RelativeDocumentMoniker": "Services\\VencedoresService.cs",
+              "ToolTip": "C:\\Users\\cris\\Documents\\cj\\Aval4\\Services\\VencedoresService.cs",
+              "RelativeToolTip": "Services\\VencedoresService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:54:09.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BingoService.cs",
+              "DocumentMoniker": "C:\\Users\\cris\\Documents\\cj\\Aval4\\Services\\BingoService.cs",
+              "RelativeDocumentMoniker": "Services\\BingoService.cs",
+              "ToolTip": "C:\\Users\\cris\\Documents\\cj\\Aval4\\Services\\BingoService.cs",
+              "RelativeToolTip": "Services\\BingoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:44:19.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BingoController.cs",
+              "DocumentMoniker": "C:\\Users\\cris\\Documents\\cj\\Aval4\\Controllers\\BingoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BingoController.cs",
+              "ToolTip": "C:\\Users\\cris\\Documents\\cj\\Aval4\\Controllers\\BingoController.cs",
+              "RelativeToolTip": "Controllers\\BingoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:45:20.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cris\\Documents\\cj\\Aval4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cris\\Documents\\cj\\Aval4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:45:04.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cris\\Documents\\cj\\Aval4\\BaseDados\\DbContext.cs",
+              "RelativeDocumentMoniker": "BaseDados\\DbContext.cs",
+              "ToolTip": "C:\\Users\\cris\\Documents\\cj\\Aval4\\BaseDados\\DbContext.cs",
+              "RelativeToolTip": "BaseDados\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:32:03.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cartela.cs",
+              "DocumentMoniker": "C:\\Users\\cris\\Documents\\cj\\Aval4\\BaseDados\\Models\\Cartela.cs",
+              "RelativeDocumentMoniker": "BaseDados\\Models\\Cartela.cs",
+              "ToolTip": "C:\\Users\\cris\\Documents\\cj\\Aval4\\BaseDados\\Models\\Cartela.cs",
+              "RelativeToolTip": "BaseDados\\Models\\Cartela.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:35:33.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumeroSorteado.cs",
+              "DocumentMoniker": "C:\\Users\\cris\\Documents\\cj\\Aval4\\BaseDados\\Models\\NumeroSorteado.cs",
+              "RelativeDocumentMoniker": "BaseDados\\Models\\NumeroSorteado.cs",
+              "ToolTip": "C:\\Users\\cris\\Documents\\cj\\Aval4\\BaseDados\\Models\\NumeroSorteado.cs",
+              "RelativeToolTip": "BaseDados\\Models\\NumeroSorteado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:36:10.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

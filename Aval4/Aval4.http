@@ -1,0 +1,6 @@
+@Aval4_HostAddress = http://localhost:5188
+
+GET {{Aval4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
